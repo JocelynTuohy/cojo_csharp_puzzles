@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/bin/Debug/netcoreapp1.1/puzzles.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/bin/Debug/netcoreapp1.1/puzzles.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/bin/Debug/netcoreapp1.1/puzzles.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/bin/Debug/netcoreapp1.1/puzzles.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/obj/Debug/netcoreapp1.1/puzzles.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/obj/Debug/netcoreapp1.1/puzzles.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/puzzles/obj/Debug/netcoreapp1.1/puzzles.pdb
